@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background: url("coffee.jpg") no-repeat;
+    background-size: cover;
+}
+
+.hero {
+    color: rgb(243, 224, 203);
+    margin-top: 20%;
+    font-weight: 500;
+    font-size: 4em;
+    letter-spacing: -0.05em;
+    font-family: lobster;
+    
+}
+.jumbotron {
+    height: 100%;
+}
+
+.coffee {
+    font-size: 1.8em;
+}
+
+.img {
+    height:75px;
+    width: 150px;
+    margin-top: 20px;
+   
+}
